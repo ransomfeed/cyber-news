@@ -9,6 +9,7 @@
 * 📅 Dates are automatically normalized to ISO 8601 format (UTC)
 * 🔁 Deduplication and GUID-based handling of entries
 * 💡 Designed to be lightweight and easily extendable
+* ✅ The database is created directly by the importer.py on first run
 
 ## 📁 Files in this repository
 
@@ -21,7 +22,7 @@
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cyber-news.git
+git clone https://github.com/ransomfeed/cyber-news.git
 cd cyber-news
 ```
 
