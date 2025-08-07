@@ -1,4 +1,4 @@
-| Titolo | Link |
+| Title | Link |
 |--------|------|
 | /dev/random | [https://blog.rootshell.be/feed](https://blog.rootshell.be/feed) |
 | /r/netsec - Information Security News &amp; Discussion | [https://www.reddit.com/r/netsec](https://www.reddit.com/r/netsec) |
@@ -72,7 +72,7 @@
 | Dark Reading | [https://www.darkreading.com/rss_simple.asp](https://www.darkreading.com/rss_simple.asp) |
 | Dark Roast Security - Medium | [https://medium.com/feed/dark-roast-security](https://medium.com/feed/dark-roast-security) |
 | DarknetLive Post Feed | [https://darknetlive.com/rss](https://darknetlive.com/rss) |
-| Data and computer security | The Guardian | [https://www.theguardian.com/technology/data-computer-security/rss](https://www.theguardian.com/technology/data-computer-security/rss) |
+| Data and computer security - The Guardian | [https://www.theguardian.com/technology/data-computer-security/rss](https://www.theguardian.com/technology/data-computer-security/rss) |
 | DataBreachToday.co.uk  RSS Syndication | [https://www.databreachtoday.co.uk/rss-feeds](https://www.databreachtoday.co.uk/rss-feeds) |
 | Datadog Security Labs | [https://securitylabs.datadoghq.com/rss/feed.xml](https://securitylabs.datadoghq.com/rss/feed.xml) |
 | DCD | [https://www.datacenterdynamics.com/rss](https://www.datacenterdynamics.com/rss) |
@@ -91,7 +91,7 @@
 | Exploitalert | [http://www.exploitalert.com/feed/](http://www.exploitalert.com/feed/) |
 | F5 Labs All | [https://www.f5.com/labs/rss-feeds/all.xml](https://www.f5.com/labs/rss-feeds/all.xml) |
 | Fingerprint Blog RSS Feed | [https://fingerprint.com/rss.xml](https://fingerprint.com/rss.xml) |
-| For [Blue|Purple | [https://www.reddit.com/r/blueteamsec](https://www.reddit.com/r/blueteamsec) |
+| For [Blue Purple | [https://www.reddit.com/r/blueteamsec](https://www.reddit.com/r/blueteamsec) |
 | Forbes - Cybersecurity | [https://www.forbes.com/cybersecurity/feed/](https://www.forbes.com/cybersecurity/feed/) |
 | Forensic Focus | [https://www.forensicfocus.com/feed/](https://www.forensicfocus.com/feed/) |
 | FortiGuard Labs | FortiGuard Center - IR Advisories | [https://filestore.fortinet.com/fortiguard/rss/ir.xml](https://filestore.fortinet.com/fortiguard/rss/ir.xml) |
@@ -109,7 +109,7 @@
 | Hacking The Cloud | [https://hackingthe.cloud/feed_rss_created.xml](https://hackingthe.cloud/feed_rss_created.xml) |
 | HackingVision | [https://hackingvision.com/feed/](https://hackingvision.com/feed/) |
 | HACKMAGEDDON | [https://www.hackmageddon.com/feed/](https://www.hackmageddon.com/feed/) |
-| HackRead | Latest Cyber Crime – InfoSec- Tech – Hacking News | [https://www.hackread.com/feed](https://www.hackread.com/feed) |
+| HackRead Latest Cyber Crime – InfoSec- Tech – Hacking News | [https://www.hackread.com/feed](https://www.hackread.com/feed) |
 | Hakin9 –  IT Security Magazine | [https://hakin9.org/feed/](https://hakin9.org/feed/) |
 | Have I Been Pwned latest breaches | [https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches](https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches) |
 | Healthcare IT News - Privacy &amp; Security | [https://www.healthcareitnews.com/taxonomy/term/6156/feed](https://www.healthcareitnews.com/taxonomy/term/6156/feed) |
