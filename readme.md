@@ -2,9 +2,13 @@
 
 **Cyber-News** is a curated, open-source collection of RSS feeds focused on cybersecurity news, breaches, threat intelligence, and infosec research. The project also includes a Python script (`importer.py`) to fetch and normalize RSS entries into a local database.
 
+**Live interaction**: [Cyber-news.it](https://cyber-news.it)
+
+**Latest OPML version**: [feeds.opml](https://github.com/ransomfeed/cyber-news/raw/refs/heads/main/feeds.opml)
+
 ## ✨ Features
 
-* ✅ Open-source OPML file with categorized cybersecurity news sources
+* ✅ Open-source OPML file with categorized cybersecurity news sources ([view sources here](https://github.com/ransomfeed/cyber-news/blob/main/feed_list.md))
 * 🐍 Python `importer.py` script to parse feeds and store them into a database
 * 📅 Dates are automatically normalized to ISO 8601 format (UTC)
 * 🔁 Deduplication and GUID-based handling of entries
@@ -14,7 +18,7 @@
 ## 📁 Files in this repository
 
 * `feeds.opml` — the main OPML file listing cybersecurity RSS sources
-* `importer.py` — script to parse and store RSS entries from the OPML file in MySQL database.
+* `importer.py` — script to parse RSS entries from the OPML file, and store in MySQL database
 * `README.md` — this file
 
 ## 🛠 Usage
@@ -55,7 +59,7 @@ Please make sure it’s a reliable, high-quality feed related to cybersecurity.
 
 ## 🧭 Roadmap
 
-* [ ] Add OPML categories (aerticle, video, podcasts)
+* [ ] Add OPML categories (article, video, podcasts - for now in OPML file there are only "article" type of sources: is possibile to create a OPML file for every type of sources)
 * [ ] Provide Docker container for full backend
 * [ ] Frontend viewer for entries
 
