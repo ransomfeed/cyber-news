@@ -4,7 +4,7 @@
 
 **Live interaction**: [Cyber-news.it](https://cyber-news.it)
 
-**Latest OPML version**: [feeds.opml](https://github.com/ransomfeed/cyber-news/raw/refs/heads/main/feeds.opml)
+**Latest OPML version** (type=article): [feeds.opml](https://github.com/ransomfeed/cyber-news/raw/refs/heads/main/feeds.opml)
 
 ## ✨ Features
 
